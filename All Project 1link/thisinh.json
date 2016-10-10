@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Do Ngoc Mai",
+    "id": "SV001",
+    "address": "hai duong",
+    "gender": false,
+    "score1": 9.0,
+    "score2": 9.0,
+    "score3": 9.0
+  },
+  {
+    "name": "nguyen minh huyen",
+    "id": "SV002",
+    "address": "ha tinh",
+    "gender": false,
+    "score1": 7.0,
+    "score2": 7.0,
+    "score3": 7.0
+  }
+]

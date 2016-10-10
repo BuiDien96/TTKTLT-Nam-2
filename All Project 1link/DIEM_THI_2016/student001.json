@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Nguyen thi thao",
+    "id": "SV003",
+    "address": "thai binh",
+    "gender": false,
+    "score1": 8.0,
+    "score2": 8.0,
+    "score3": 8.0
+  },
+  {
+    "name": "Ngo huong",
+    "id": "SV004",
+    "address": "ninh binh",
+    "gender": false,
+    "score1": 6.0,
+    "score2": 6.0,
+    "score3": 9.0
+  },
+  {
+    "name": "tran van hoang",
+    "id": "SV005",
+    "address": "ha noi",
+    "gender": true,
+    "score1": 9.0,
+    "score2": 7.0,
+    "score3": 9.0
+  }
+]
